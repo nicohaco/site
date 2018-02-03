@@ -2,15 +2,18 @@
 # Site
 
 title: NicoHaco
-url: 
-baseurl:
-google_analytics_key:
+url: https://nicohaco.github.io/site/
+baseurl: /
+google_analytics_key: UA-113205184-1
 google_maps_javascript_api_key:
 disqus_shortname: NicoHaco
 
+twitter: about_hiroppy
+
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: ニコニコ動画の音楽再生に特化したPCアプリです。
+image: /images/ogp.png
+description: ニコニコ動画を音楽プレイヤーのように使いやすくするPCアプリ
 author:
   name: Yuta Hiroto
   email: hello@about-hiroppy.com
