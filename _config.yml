@@ -3,7 +3,7 @@
 
 title: NicoHaco
 url: https://nicohaco.github.io
-baseurl: /site/
+baseurl: /site
 google_analytics_key: UA-113205184-1
 google_maps_javascript_api_key:
 disqus_shortname: NicoHaco
@@ -17,11 +17,12 @@ description: ニコニコ動画を音楽プレイヤーのように使いやす�
 author:
   name: Yuta Hiroto
   email: hello@about-hiroppy.com
-  # twitter: about_hiroppy
+  twitter: about_hiroppy
 social:
   name: NicoHaco
   links:
     - https://github.com/nicohaco/nicohaco
+    - https://twitter.com/about_hiroppy
 
 # -----
 # Build
