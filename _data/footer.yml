@@ -1,0 +1,19 @@
+- links:
+  - name: Release Notes
+    link: /blog/
+- links:
+  - name: Repository
+    link: https://github.com/nicohaco/nicohaco
+    new_window: true
+  - name: Organization
+    link: https://github.com/nicohaco
+    new_window: true
+- links:
+  - name: Twitter
+    link: https://twitter.com/about_hiroppy
+    social_icon: Twitter
+    new_window: true
+  - name: RSS
+    link: /feed.xml
+    social_icon: RSS
+    new_window: false
